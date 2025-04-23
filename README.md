@@ -2,5 +2,5 @@
 
 ## Features
 
- [ ] We can set party date and description
+- [ ] We can set party date and description
    
